@@ -6,7 +6,9 @@ public static void main(String[] args) {
 	System.out.println("Hello");
 	System.out.println("a");
 	System.out.println("b");
+	System.out.println("C");
 	System.out.println("d");
+
 
 }
 }
